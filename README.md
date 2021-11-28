@@ -6,7 +6,7 @@ Created with CodeSandbox
 
 -HTML
 
--CSS
+-CSS (Bootstrap)
 
 ## Link to live view
 
